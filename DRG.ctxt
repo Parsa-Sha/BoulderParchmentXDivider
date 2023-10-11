@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DRG
+comment0.text=\n\ Write\ a\ description\ of\ class\ DramaticResponseGenerator\ here.\n\n\ @author\ Parsa\ S.\n\ @version\ Problem\ Set\ 3B,\ 10/10/2023\n\ \n
+comment1.params=x\ a\ b
+comment1.target=void\ generateResponse(int,\ int,\ int)
+comment2.params=str
+comment2.target=int\ getResponse(java.lang.String)
+comment3.params=i
+comment3.target=java.lang.String\ numToChoice(int)
+numComments=4
